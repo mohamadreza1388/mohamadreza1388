@@ -12,10 +12,5 @@ I am a frontend and backend developer with a strong background in Web programmin
 - 📫 How to reach me: mohamadreza1388.org@gmail.com
 - ⚡ Fun fact: I don't get tired, but this is not fun
 
-## 🤝 Let's Connect!
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tikrack&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out to me if you'd like to chat about tech, work together on a project, or just say hi!
-
----
-
-Thank you for visiting my GitHub profile! Have a great day! 😄
