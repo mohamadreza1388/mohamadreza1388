@@ -12,4 +12,4 @@ I am a frontend and backend developer with a strong background in Web programmin
 - 📫 How to reach me: mohamadreza1388.org@gmail.com
 - ⚡ Fun fact: I don't get tired, but this is not fun
 
-                                       ![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=tikrack&show_icons=true&theme=tokyonight)
+![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=tikrack&show_icons=true&theme=tokyonight)
